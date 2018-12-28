@@ -1,0 +1,19 @@
+{
+	"name": "grin-faucet",
+	"version": "0.0.0",
+	"description": "Grin testnet faucet.",
+	"author": "Vis Virial <visvirial@gmail.com>",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"keywords": [],
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"dependencies": {
+		"express": "^4.16.4",
+		"request": "^2.88.0"
+	},
+	"devDependencies": {}
+}
