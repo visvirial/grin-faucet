@@ -1,5 +1,5 @@
 
-const API_ENDPOINT = 'http://localhost:3000/api/v0/';
+const API_ENDPOINT = 'https://grin-faucet.visvirial.com/api/v0/';
 
 const send_http = () => {
 	const dest = $('#dest').val();
